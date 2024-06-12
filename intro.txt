@@ -1,0 +1,5 @@
+Name: Sommay Shivangi
+Enrollment number: 06504092023
+Course: Master of Computer Applications(MCA)
+Assignment - 1
+Machine Learning
